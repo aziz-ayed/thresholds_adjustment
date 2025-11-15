@@ -38,8 +38,8 @@ calibration-paper/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/aziz-ayed/thresholds_adjustment.git
+cd thresholds_adjustment
 
 python -m venv .venv
 source .venv/bin/activate  
